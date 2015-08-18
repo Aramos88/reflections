@@ -4,3 +4,9 @@ What value do you think it offers?
 The Staging Area is the last chance to not commit any of the changes made to 
 the files in matter.
 The value that it offers is the opportunity of changing one's mind
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Once we "git add" a file we are working with, we still have the chance to peek 
+at the initial "working" state of our code and the "staged" version of it, in order 
+to make sure that we are indeed preparing a commit for 1 logical change.
