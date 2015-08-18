@@ -21,3 +21,9 @@ organized??
 How would branches help?
 	Branches allow us to preserve a main version while working along with several
 	modified versions.
+	
+**************************************************************************************
+
+How do the diagrams help you visualize the branch structure?
+	Providing us with a clear representation of the changes made in time, and letting
+	us know of the progress/changes that have been committed to different branches.
