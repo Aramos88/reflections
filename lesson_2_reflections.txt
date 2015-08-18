@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+The Staging Area is the last chance to not commit any of the changes made to 
+the files in matter.
+The value that it offers is the opportunity of changing one's mind

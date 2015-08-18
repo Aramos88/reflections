@@ -1,0 +1,7 @@
+How did viewing a diff between two 
+versions of a file help you see the bug that was introduced?
+
+Having an old-doc line vs new-doc line view let's you easily detect
+any changes for a specific line. 
+Hence, it's way easier to detect any changes that "are not supposed"
+to be there in a code.
