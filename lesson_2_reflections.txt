@@ -27,3 +27,13 @@ How would branches help?
 How do the diagrams help you visualize the branch structure?
 	Providing us with a clear representation of the changes made in time, and letting
 	us know of the progress/changes that have been committed to different branches.
+	
+***************************************************************************************
+	
+What are the pros and cons of Git's automatic merging vs always doing merges manually??
+	AutomaticMerging provides a quick, effective way to sync any changes that are not 
+	included in the same logical unit
+	ManualMerging by the contrary provides a tune-and-pimp approach to solving conflicts
+	always with the  presence of the human factor.
+	
+	
